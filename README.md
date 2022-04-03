@@ -1,4 +1,4 @@
-This repository will be filled with the progress that I make on the css exercises that were created by "The Odin Project." The css exercises that I will be working on in this particular repository are the ones that can be found in their foundations folder in the following links posted below.
+This repository will be filled with the progress that I make on the css exercises that were created by "The Odin Project." The css exercises that I will be working on in this particular repository are the ones that can be found in the foundations folder in the following links posted below.
 
 The link below shows all of the css exercises folders.
 
