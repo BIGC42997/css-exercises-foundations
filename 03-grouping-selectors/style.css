@@ -1,0 +1,12 @@
+.firstclicker,
+.secondclicker {
+font-size: 28px;
+font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.firstclicker {
+background-color: black;
+color: white;
+}
+.secondclicker {
+background-color: yellow;
+}
